@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Visitor Count](https://profile-counter.glitch.me/{vipansh}/count.svg)
+
 <!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dikshantpatodia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
